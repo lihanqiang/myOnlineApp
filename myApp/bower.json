@@ -1,0 +1,22 @@
+{
+  "name": "myonlineapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jack <1162817095@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lihanqiang/myOnlineApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.4",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4"
+  }
+}
